@@ -1,0 +1,12 @@
+﻿* { font-family: 微軟正黑體, Montserrat, "Helvetica Neue", sans-serif}
+
+#h_buttons { background-color:#DDDDDD; height:33px; border:1px solid #111111; background-position: -1px -1px;}
+#h_buttons ul{list-style:none;}
+#h_buttons li{ float:left; no-repeat right top;}
+#h_buttons a{ font-family: 微軟正黑體, Montserrat, "Helvetica Neue", sans-serif; color:#000000; padding:0 10px; line-height:33px; display:block; text-decoration:none;}
+#h_buttons a:hover{ background-image:none; background-color:#BBBBBB; color:#FFFFFF; text-decoration:none;}
+
+#button {background: #CCCCCC; float: none;}
+#button a{color:#000000; text-decoration: none; margin:10px; float:none;}
+
+#list td{margin-top: 60px;}
